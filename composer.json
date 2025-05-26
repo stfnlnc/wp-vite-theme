@@ -1,5 +1,6 @@
 {
     "require": {
-        "htmlburger/carbon-fields": "^3.6"
+        "htmlburger/carbon-fields": "^3.6",
+        "intervention/image": "^3.11"
     }
 }
