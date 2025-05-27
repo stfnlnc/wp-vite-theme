@@ -18,5 +18,6 @@ function crb_load()
     \Carbon_Fields\Carbon_Fields::boot();
 }
 
-// Maintenance Mode
+// Support Features
 require 'inc/support/maintenance.php';
+require 'inc/support/remove_editor.php';
