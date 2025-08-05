@@ -21,3 +21,4 @@ function crb_load()
 // Support Features
 require 'inc/support/maintenance.php';
 require 'inc/support/remove_editor.php';
+require 'inc/support/remove_comments.php';
